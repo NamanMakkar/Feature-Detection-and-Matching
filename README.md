@@ -10,6 +10,7 @@ The goal of feature detection and matching is to identify a pairing between a po
 
 - Feature detection using Harris
 - Feature description (simple and MOPS)
+- Feature descriptor SIFT (Scale Invariant Feature Transform) implemented in bonus directory in 'extracredit.py'
 - Feature matching (SSD and ratio)
 
 <br>
