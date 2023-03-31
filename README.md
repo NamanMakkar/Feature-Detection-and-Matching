@@ -27,39 +27,39 @@ Yosemite 1 & Yosemite 2
 ### Output: Keypoint Detection:
 Yosemite 1: 1559 keypoints detected
 <br>
-![Yosemite 1](./results/Yosemite1 - Keypoint Detection.jpg)
+![Yosemite 1](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite1%20-%20Keypoint%20Detection.jpg)
 <br> 
 Yosemite 2: 1356 keypoints detected
 <br> 
-![Yosemite 2](./results/Yosemite2 - Keypoint Detection.jpg)
+![Yosemite 2](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite2%20-%20Keypoint%20Detection.jpg)
 
 <br>
 
 ### Output: Feature Matching
 MOPS SSD: 1559 Matches
 <br>
-![MOPS SSD](./results/Yosemite - Feature Matching MOPS SSD.jpg)
+![MOPS SSD](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite%20-%20Feature%20Matching%20MOPS%20SSD%20.jpg)
 <br>
 MOPS Ratio: 1559 Matches 
 <br>
-![MOPS Ratio](./results/Yosemite - Feature Matching SIFT Ratio Test.jpg)
+![MOPS Ratio](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite%20-%20Feature%20Matching%20MOPS%20Ratio.jpg)
 <br>
 
 
 Simple SSD: 1559 Matches
 <br>
-![Simple SSD](./results/Yosemite - Feature Matching Simple SSD.jpg)
+![Simple SSD](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite%20-%20Feature%20Matching%20Simple%20SSD.jpg)
 <br>
 Simple Ratio: 1559 Matches
 <br>
-![Simple Ratio](./results/Yosemite - Feature Matching Simple Ratio.jpg)
+![Simple Ratio](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite%20-%20Feature%20Matching%20Simple%20Ratio.jpg)
 <br>
 <br> 
 
 ### Performance Benchmark
 ROC Curves and their respective AUC values for all matcher types and tests are shown below in the figure: 
 <br>
-![ROC Curves & AUC values](./results/Benchmark - ROC Curves & AUC values.jpg)
+![ROC Curves & AUC values](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Benchmark%20-%20ROC%20Curves%20%26%20AUC%20values.jpg)
 <br>
 <br>
 
@@ -79,8 +79,8 @@ SIFT Ratio Test ROC Curve: AUC Value 0.9858
 
 SIFT SSD
 <br>
-![SIFT SSD](./results/Yosemite - Feature Matching SIFT SSD.jpg)
+![SIFT SSD](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite%20-%20Feature%20Matching%20SIFT%20SSD.jpg)
 <br>
 SIFT Ratio
 <br>
-![SIFT Ratio](./results/Yosemite - Feature Matching SIFT Ratio Test.jpg)
+![SIFT Ratio](https://github.com/NamanMakkar/Feature-Detection-and-Matching/blob/main/results/Yosemite%20-%20Feature%20Matching%20SIFT%20Ratio%20Test.jpg)
