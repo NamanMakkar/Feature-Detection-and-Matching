@@ -5,6 +5,7 @@ CS5670 - Intro to Computer Vision<br>
 Project Details Page: https://www.cs.cornell.edu/courses/cs5670/2023sp/projects/pa2/
 <br>
 <br>
+
 ## Introduction:
 The goal of feature detection and matching is to identify a pairing between a point in one image and a corresponding point in another image. These correspondences can then be used to stitch multiple images together into a panorama. In this project, we detected image features and matching pairing features as following:
 
