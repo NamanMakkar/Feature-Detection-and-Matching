@@ -1,0 +1,16 @@
+name: cs5670_python_env
+channels:
+  - anaconda
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib=3.3.4
+  - numpy=1.16.0
+  - opencv=3.4.2
+  - pillow=8.1.0
+  - py-opencv=3.4.2
+  - pyparsing=2.4.7
+  - python=3.7.9
+  - pyttk=0.3.2
+  - scipy=1.6.1
+  - tk=8.6.10

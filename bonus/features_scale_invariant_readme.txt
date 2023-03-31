@@ -1,0 +1,2 @@
+The SIFT feature descriptor has been implemented in the features_scale_invariant.py file. It is a scale invariant feature descriptor and achieves an AUC of 0.9858 with Ratio Feature Matcher and an AUC of 0.9841 with SSD Feature Matcher on the Yosemite dataset.
+This can be run by selecting 'SIFT' as the feature descriptor on the UI. The same feature descriptor has been used in extracredit.py
